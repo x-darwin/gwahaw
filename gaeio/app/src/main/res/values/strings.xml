@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Gaeio</string>
+    <string name="rtmp_url_hint">Enter RTMP URL</string>
+    <string name="enable_audio">Enable Audio</string>
+    <string name="save">Save</string>
+    <string name="ok">OK</string>
+    <string name="error">Error</string>
+    <string name="error_empty_url">Please enter a URL</string>
+    <string name="error_invalid_rtmp">URL must start with rtmp://</string>
+    <string name="save_success">Settings saved successfully</string>
+</resources>
